@@ -6,4 +6,4 @@
 **Deok-Hyeon Cho, Hyung-Seok Oh, Seung-Bin Kim, Seong-Whan Lee**
 
 ---
-code & model (TBA)
+code & model & paper (TBA)
