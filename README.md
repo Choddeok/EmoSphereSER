@@ -1,6 +1,6 @@
 # EmoSphere-SER: Enhancing Speech Emotion Recognition through Spherical Representation with Auxiliary Classification <br><sub>The official implementation of EmoSphere-SER (INTERSPEECH 2025 Challenge)</sub>
 
-## [Paper 📄]()
+## [Paper 📄](https://arxiv.org/abs/2505.19693)
 
 
 # Training Procedure
